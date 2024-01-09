@@ -94,7 +94,8 @@ for (const file of commandFiles) {
     client.commands.set(command.name, command)
 }
 
-const token = "NzI5OTM0MTE4OTI1ODkzNzA0.XwTImQ.O5_oPzQjeVAsCV2OCqn_UGZv7G8";
+// Token will not work, and will not be revealed for security reasons.
+const token = "";
 
 
 // COOLDOWN 8-10-2020
