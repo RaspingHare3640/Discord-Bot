@@ -1,0 +1,26 @@
+[
+  {
+    "id": 202122,
+    "title": " Stats HW Reminder ",
+    "text": " <@729934118925893704>  Reminder to do stats hw ",
+    "channels": "",
+    "hours": 10,
+    "minutes": 50,
+    "days": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 814230,
+    "title": " Stats HW Reminder ",
+    "text": " <@729934118925893704>  Reminder to do stats hw ",
+    "channels": "",
+    "hours": 6,
+    "minutes": 45,
+    "days": [
+      1,
+      2
+    ]
+  }
+]

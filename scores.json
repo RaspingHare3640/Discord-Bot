@@ -1,0 +1,311 @@
+[
+  {
+    "server": "QB Bot Score",
+    "channel": "vista-c",
+    "id": "796889354814488586",
+    "myteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "QB Bot Score",
+    "channel": "vista-b",
+    "id": "796889335710351369",
+    "myteam": {
+      "tossups": {
+        "TU": 20,
+        "P": 15,
+        "N": 0
+      },
+      "bonuses": 30,
+      "logs": [
+        " WE: 10",
+        " WE: 15",
+        30,
+        " WE: 10"
+      ],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "QB Bot Score",
+    "channel": "practice-channel-5",
+    "id": "796893148533751819",
+    "myteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "QB Bot Score",
+    "channel": "practice-channel-1",
+    "id": "796893035249795102",
+    "myteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "QB Bot Score",
+    "channel": "vista-b-2",
+    "id": "916693188029349948",
+    "myteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "Soviet Safehouse",
+    "channel": "bot-regression",
+    "id": "750029306029408286",
+    "myteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "Soviet Safehouse",
+    "channel": "test",
+    "id": "798994432607256576",
+    "myteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "Soviet Safehouse",
+    "channel": "general",
+    "id": "730090961505353730",
+    "myteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "QB Bot Score",
+    "channel": "room-1",
+    "id": "791033332200243220",
+    "myteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 0,
+        "P": 0,
+        "N": 0
+      },
+      "bonuses": 0,
+      "logs": [],
+      "undo": 0
+    }
+  },
+  {
+    "server": "FMS Quiz Bowl",
+    "channel": "practice-chat",
+    "id": "1051314369964810320",
+    "myteam": {
+      "tossups": {
+        "TU": 130,
+        "P": 30,
+        "N": -20
+      },
+      "bonuses": 0,
+      "logs": [
+        " WE: 10",
+        " WE: -5",
+        " WE: 10",
+        " WE: 10",
+        " WE: 10",
+        " WE: -5",
+        " WE: 10",
+        " WE: 15",
+        " WE: 10",
+        " WE: 10",
+        " WE: 10",
+        " WE: 10",
+        " WE: 10",
+        " WE: -5",
+        " WE: 10",
+        " WE: -5",
+        " WE: 10",
+        " WE: 15",
+        " WE: 10"
+      ],
+      "undo": 0,
+      "people": []
+    },
+    "theirteam": {
+      "tossups": {
+        "TU": 80,
+        "P": 75,
+        "N": -50
+      },
+      "bonuses": 0,
+      "logs": [
+        10,
+        -5,
+        10,
+        -5,
+        10,
+        -5,
+        10,
+        -5,
+        10,
+        15,
+        -5,
+        10,
+        10,
+        -5,
+        15,
+        -5,
+        15,
+        15,
+        -5,
+        10,
+        -5,
+        -5,
+        15
+      ],
+      "undo": 0
+    }
+  }
+]

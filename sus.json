@@ -1,0 +1,75 @@
+[
+  {
+    "server": "potato",
+    "msgs": [
+      {
+        "name": "asdf",
+        "content": "asdfasdf"
+      }
+    ]
+  },
+  {
+    "server": "Soviet Safehouse",
+    "msgs": []
+  },
+  {
+    "Author": "Yiwen",
+    "id": "549110613335605248",
+    "count": 8,
+    "supercount": 1
+  },
+  {
+    "Author": "shogun169",
+    "id": "535242785888927764",
+    "count": 18,
+    "supercount": 0
+  },
+  {
+    "Author": "RaspingHare",
+    "id": "590420469862236160",
+    "count": 125,
+    "supercount": 24
+  },
+  {
+    "Author": "TrevoristheGOAT",
+    "id": "456466805058437122",
+    "count": 56,
+    "supercount": 11
+  },
+  {
+    "Author": "Shrevor the Shrex",
+    "id": "346434640535355413",
+    "count": 13,
+    "supercount": 2
+  },
+  {
+    "Author": "Ｙａｒｄ Ｄｕｔｙ Ｂｉｌｌｙ",
+    "id": "303279285219622914",
+    "count": 22,
+    "supercount": 4
+  },
+  {
+    "Author": "SubZero",
+    "id": "303277475998334976",
+    "count": 6,
+    "supercount": 2
+  },
+  {
+    "Author": "Abstractful",
+    "id": "332219771053539328",
+    "count": 7,
+    "supercount": 2
+  },
+  {
+    "Author": "mooo 2.0",
+    "id": "439546060642320384",
+    "count": 8,
+    "supercount": 0
+  },
+  {
+    "Author": "PrayKnave",
+    "id": "433040068958093312",
+    "count": 32,
+    "supercount": 7
+  }
+]

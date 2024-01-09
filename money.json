@@ -1,0 +1,52 @@
+[
+  {
+    "user": "Ｙａｒｄ Ｄｕｔｙ Ｂｉｌｌｙ",
+    "id": "303279285219622914",
+    "money": 680,
+    "tag": "<@!>",
+    "guilds": [],
+    "guildOwner": false
+  },
+  {
+    "user": "LeBronistheGOAT",
+    "id": "456466805058437122",
+    "tag": "<@!>",
+    "money": 1565,
+    "guilds": [],
+    "guildOwner": false
+  },
+  {
+    "user": "mooo 2.0",
+    "id": "439546060642320384",
+    "tag": "<@!>",
+    "money": 665,
+    "guilds": [],
+    "guildOwner": false
+  },
+  {
+    "user": "PrayKnave",
+    "id": "433040068958093312",
+    "tag": "<@!>",
+    "money": 885,
+    "guilds": [],
+    "guildOwner": false
+  },
+  {
+    "user": "SubZero",
+    "id": "303277475998334976",
+    "tag": "<@!>",
+    "money": 730,
+    "guilds": [],
+    "guildOwner": false
+  },
+  {
+    "user": "RaspingHare",
+    "id": "590420469862236160",
+    "tag": "<@!>",
+    "money": 1665,
+    "guilds": [
+      "ydf"
+    ],
+    "guildOwner": true
+  }
+]
